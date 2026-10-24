@@ -1,0 +1,10 @@
+{
+  "name": "plateforward-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PlateForward food donation and surplus distribution platform",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2"
+  }
+}
